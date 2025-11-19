@@ -1,0 +1,39 @@
+# Isometric Map Editor Tasks
+
+- [x] Project Initialization
+    - [x] Initialize Vite project (TileScape) <!-- id: 0 -->
+    - [x] Set up HTML/CSS structure & Router <!-- id: 1 -->
+    - [ ] Set up Testing Infrastructure (Vitest, Playwright) <!-- id: 12 -->
+    - [ ] Set up Configuration (.env handling) <!-- id: 13 -->
+- [x] Core Features
+    - [x] Implement Navigation Header <!-- id: 14 -->
+    - [x] Create News & Blog Views <!-- id: 15 -->
+    - [x] Implement Collections (Save/Load) <!-- id: 16 -->
+- [x] Multi-Mode Support
+    - [x] Implement Perspective Toggle (Iso/Flat) <!-- id: 17 -->
+    - [x] Implement Import Mode Toggle (Sheet/Individual) <!-- id: 18 -->
+    - [x] Refactor TilesetManager for Sheet support <!-- id: 19 -->
+    - [x] Refactor MapManager for Flat rendering <!-- id: 20 -->
+- [x] Tileset Management
+    - [x] Refactor to support multiple file upload <!-- id: 2 -->
+    - [x] Remove rows/cols configuration UI <!-- id: 3 -->
+    - [x] Implement dynamic grid display for individual images <!-- id: 4 -->
+    - [x] Update selection logic for image list <!-- id: 5 -->
+- [x] Map Management
+    - [x] Create map configuration UI (isometric rows/cols) <!-- id: 6 -->
+    - [x] Implement isometric grid rendering (Canvas/DOM) <!-- id: 7 -->
+    - [x] Implement tile placement logic <!-- id: 8 -->
+    - [x] Implement tile replacement logic <!-- id: 9 -->
+- [x] UI/UX Polish
+    - [x] Style the interface (Dark mode, premium feel) <!-- id: 10 -->
+    - [x] Add visual feedback for interactions <!-- id: 11 -->
+    - [x] Set Flat view as default <!-- id: 21 -->
+    - [x] Fix Tileset selection click accuracy <!-- id: 22 -->
+    - [x] Implement Right-click to Clear Tile <!-- id: 23 -->
+    - [x] Implement Middle-click to Pan Map <!-- id: 24 -->
+    - [x] Implement Drag-to-Paint <!-- id: 25 -->
+- [ ] Documentation & Polish
+    - [ ] Fix Header Styling <!-- id: 26 -->
+    - [ ] Add Project Screenshot <!-- id: 27 -->
+    - [ ] Create README.md <!-- id: 28 -->
+
